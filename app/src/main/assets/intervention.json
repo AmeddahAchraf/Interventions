@@ -1,0 +1,29 @@
+{
+  "array":[
+    {
+      "id" : "1",
+      "numero": "129283",
+      "date" : "22-08-2029",
+      "nomPlombier" : "test",
+      "typeIntervention" : "2"
+    },{
+      "id" : "2",
+      "numero": "129283",
+      "date" : "22-08-2029",
+      "nomPlombier" : "test",
+      "typeIntervention" : "2"
+    },{
+      "id" : "3",
+      "numero": "129283",
+      "date" : "22-08-2029",
+      "nomPlombier" : "test",
+      "typeIntervention" : "2"
+    },{
+      "id" : "4",
+      "numero": "129283",
+      "date" : "22-08-2029",
+      "nomPlombier" : "test",
+      "typeIntervention" : "2"
+    }
+  ]
+}
