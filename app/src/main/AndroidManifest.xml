@@ -17,8 +17,6 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".act2">
-        </activity>
 
     </application>
 
